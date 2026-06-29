@@ -37,4 +37,4 @@ Decision Tree Classifier
 The Decision Tree model successfully classified Iris flower species with high accuracy.
 
 ## 👩‍💻 Author
-Sheetal Kushwah
+jitendra ahirwar
